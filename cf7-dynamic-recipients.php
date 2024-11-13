@@ -7,7 +7,7 @@
  * Requires at least: 5.8
  * Requires PHP: 8.0
  * Author: Josh R Slone
- * Author URI: https://frontbackdesign.com
+ * Author URI: https://onlyplugins.com
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: cf7-dynamic-recipients
