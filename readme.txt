@@ -1,9 +1,9 @@
 === Dynamic Recipients for Contact Form 7 ===
 Contributors: jrswordpress
-Donate link: https://frontbackdesign.com
+Donate link: https://onlyplugins.com
 Tags: contact form 7, cf7, email routing, dynamic recipients, contact form
 Requires at least: 5.8
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 8.0
 Stable tag: 1.0.0
 License: GPLv2 or later
